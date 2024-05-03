@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently on internship at PT Indostorage Solusi Teknologi<br>👯 I’m looking to collaborate on DevOps Project<br>🌱 I’m currently learning DevSecOps<br>⚡ I’m an IT Enthusiast, Football Fans, & MotoGP Fans
+🔭 I’m currently on internship at PT Indostorage Solusi Teknologi<br>👯 I’m looking to collaborate on DevOps Project<br>🌱 I’m currently learning DevSecOps<br>⚡ I’m an IT Enthusiast & Football Fans
 
 
 ## 🌐 Socials:
