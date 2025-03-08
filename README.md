@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Junior DevOps Engineer at PT Indostorage Solusi Teknologi<br>👯 I’m looking to collaborate on DevOps and SysAdmin Project<br>🌱 I’m currently learning DevSecOps and Cybersecurity<br>⚡ I’m an IT Enthusiast & Football Fans
+🔭 I’m a Junior DevOps Engineer at PT Indostorage Solusi Teknologi<br>👯 I’m looking to collaborate on DevOps and SysAdmin Project<br>🌱 I’m currently learning DevSecOps and Cybersecurity<br>
 
 
 ## 🌐 Socials:
