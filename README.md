@@ -1,21 +1,41 @@
-# 💫 About Me:
-🔭 I’m a Junior DevOps Engineer at PT Indostorage Solusi Teknologi<br>👯 I’m looking to collaborate on DevOps and SysAdmin Project<br>🌱 I’m currently learning DevSecOps and Cybersecurity<br>
-<!-- Test bjir -->
+# Hi, I'm Zaidan
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/muhammad.zaidan.714655/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/zaidanm._/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-zaidan-16m) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCrXKGMGVjbJMLMpKjW_jBVw) 
+**DevOps Engineer at NashTa Group · Pengendali Awan**
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zaidanm16&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zaidanm16&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidanm16&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I automate CI/CD workflows, manage Kubernetes clusters, and work on GitOps and
+pipeline security. I'm also studying Informatics at Asia Cyber University.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Still negotiating with YAML over two spaces.
 
----
-[![](https://visitcount.itsvg.in/api?id=zaidanm16&icon=0&color=0)](https://visitcount.itsvg.in)
+## What I work on
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Application deployments and infrastructure changes through GitOps.
+- Kubernetes operations with Rancher, including troubleshooting pods and services.
+- Moving GitLab CI/CD variables into Vault and integrating security checks.
+- Monitoring systems and handling database and Redis failovers.
+
+## Tools I work with
+
+| Area | Tools |
+| :--- | :--- |
+| Containers & clusters | Kubernetes, Rancher, Docker |
+| Delivery & GitOps | GitLab CI/CD, Argo CD |
+| Secrets & API protection | HashiCorp Vault, Kong, BunkerWeb, ModSecurity |
+| Data & monitoring | Redis, PostgreSQL, Prometheus |
+
+## Things I've built
+
+- **Kang:** a dashboard for managing multiple Kong Gateway instances, with metrics
+  and configuration snapshots.
+- **Secreto:** an environment variable manager connecting Vault and GitLab, with
+  comparison and sync across environments.
+- **azeMoney:** a budget tracker built with microservices.
+
+## Let's talk infrastructure
+
+Find my experience and project details on
+[LinkedIn](https://www.linkedin.com/in/muhammad-zaidan-16m).
+
+You can also find me on [Instagram](https://www.instagram.com/zaidanm._/),
+[YouTube](https://www.youtube.com/channel/UCrXKGMGVjbJMLMpKjW_jBVw),
+and [Facebook](https://www.facebook.com/muhammad.zaidan.714655/).
