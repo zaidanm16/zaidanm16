@@ -1,6 +1,6 @@
 # Hi, I'm Zaidan
 
-**DevOps Engineer at NashTa Group · Pengendali Awan**
+**DevOps Engineer**
 
 I automate CI/CD workflows, manage Kubernetes clusters, and work on GitOps and
 pipeline security. I'm also studying Informatics at Asia Cyber University.
